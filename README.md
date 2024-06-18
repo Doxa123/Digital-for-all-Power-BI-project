@@ -1,4 +1,4 @@
-# Digital-for-all-Power-BI-project
+# Power-BI-project
 The dashboard visualizes data from the "Data Professional Survey" provided by Alex the Analyst. This survey includes responses from data professionals across various countries and industries, covering aspects such as their ethnicity, job satisfaction, favorite programming language, current salary, and more.
 Here are some key insights from the survey:
 * Total Participants: 630 data professionals took part in the survey.
